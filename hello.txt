@@ -12,3 +12,4 @@ Hello Git!
 When you do, you'll have nothing to fear
 just do it
 
+but where you choose to finish
