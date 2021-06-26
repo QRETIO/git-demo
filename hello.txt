@@ -10,4 +10,5 @@ Hello Git!
 Hello Git! 
 
 When you do, you'll have nothing to fear
+just do it
 
